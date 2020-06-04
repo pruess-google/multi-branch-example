@@ -1,1 +1,4 @@
 Start of second file
+More lines
+And some more
+More...
