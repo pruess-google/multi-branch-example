@@ -1,8 +1,8 @@
 My first file
 
 New section header:
-- Section stuff
-- More section stuff
+- Section stuff...
+- More section stuff...
 
 
 Quick nav:
